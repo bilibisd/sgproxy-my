@@ -1,6 +1,6 @@
 # SGProxy
 
-> **SGProxy 是 [gproxy](https://github.com/LeenHawk/gproxy) 的精简版**，只保留 ClaudeCode 单通道 + Anthropic 原生格式。需要多通道（Codex、OpenAI 等）或多格式转换？请使用完整版 **[gproxy](https://github.com/LeenHawk/gproxy)**。
+> **SGProxy 是  [gproxy](https://github.com/LeenHawk/gproxy) 的精简版**，只保留 ClaudeCode 单通道 + Anthropic 原生格式。需要多通道（Codex、OpenAI 等）或多格式转换？请使用完整版 **[gproxy](https://github.com/LeenHawk/gproxy)**。
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/leenhawk)
 
